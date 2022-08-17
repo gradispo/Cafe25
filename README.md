@@ -8,4 +8,4 @@
 + 📌 Grid 적용
 + 📌 깃허브 페이지로 배포
 
-[배포주소] https://gradispo.github.io/Cafe25
+[배포주소](https://gradispo.github.io/Cafe25)
